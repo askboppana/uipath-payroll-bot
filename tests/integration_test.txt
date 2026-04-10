@@ -1,0 +1,4 @@
+Tests: uipath-payroll-bot INT
+TC-001: PASS
+TC-002: PASS
+Coverage: 65%
