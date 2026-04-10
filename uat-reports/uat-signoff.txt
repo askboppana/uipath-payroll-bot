@@ -1,0 +1,2 @@
+UAT: uipath-payroll-bot STAGE
+Status: PENDING APPROVAL
